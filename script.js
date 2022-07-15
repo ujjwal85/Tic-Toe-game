@@ -93,9 +93,6 @@ function firebtn(event) {
         }
     }
 
-
-
-
 }
 
 function winner() {
@@ -164,8 +161,6 @@ function replay() {
         element.innerHTML = ""
     })
     startgame()
-
-
 }
 
 const winCombos = [
